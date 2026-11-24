@@ -1,0 +1,7 @@
+out/
+build/
+dist/
+nbproject/private/
+bukti_bayar/
+config.properties
+sources.txt
