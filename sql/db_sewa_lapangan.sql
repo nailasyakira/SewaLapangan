@@ -1,11 +1,3 @@
--- =====================================================================
---  Database : db_sewa_lapangan
---  Aplikasi : Pengelolaan Data Penyewaan Lapangan Olahraga (Java + MySQL)
---  Cara pakai: jalankan seluruh file ini di phpMyAdmin / MySQL Workbench
---  Akun admin awal dibuat otomatis oleh aplikasi saat pertama dijalankan
---  (username: admin | password: admin123) -> segera ganti setelah login.
--- =====================================================================
-
 CREATE DATABASE IF NOT EXISTS db_sewa_lapangan
     CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE db_sewa_lapangan;
